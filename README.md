@@ -23,11 +23,11 @@ Tinkercad é uma plataforma online gratuita da Autodesk que permite simular circ
 
 | Projeto                | Descrição |
 |------------------------|-----------|
-| [Hello World](./hello-world)         | Exibe "Hello World" em um display LCD |
-| [Luzes Dançantes 1](./luzes-dancantes1) | LEDs piscando em sequência simples |
-| [Luzes Dançantes 2](./luzes-dancantes2) | Versão avançada com padrões personalizados |
-| [Semáforo](./semaforo)               | Simulação de um semáforo com LEDs |
-| [Sensor de Temperatura](./sensor-temperatura) | Mede temperatura e mostra no LCD |
+| [Hello World](./arduino-projetos/hello-world)         | Exibe "Hello World" em um display LCD |
+| [Luzes Dançantes 1](./arduino-projetos/luzes-dancantes1) | LEDs piscando em sequência simples |
+| [Luzes Dançantes 2](./arduino-projetos/luzes-dancantes2) | Versão avançada com padrões personalizados |
+| [Semáforo](./arduino-projetos/semaforo)               | Simulação de um semáforo com LEDs |
+| [Sensor de Temperatura](./arduino-projetos/sensor-temperatura) | Mede temperatura e mostra no LCD |
 > 💡 Cada projeto está dentro de uma pasta com o mesmo nome e contém o código `.ino` (Arduino) e imagem do circuito.
 
 ## 🚀 Como visualizar os projetos
