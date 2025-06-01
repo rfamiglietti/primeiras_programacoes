@@ -1,6 +1,6 @@
 # Meu Primeiro Contato com Programação🚀
 
-Este repositório é um marco pessoal: meu primeiro contato com programação usando foi utilizando a plataforma [Tinkercad](https://www.tinkercad.com/) da Autodesk. Aqui você encontra meus experimentos, aprendizados e projetos iniciais com lógica de programação, circuitos e componentes eletrônicos.
+Este repositório é um marco pessoal: meu primeiro contato com programação foi utilizando a plataforma [Tinkercad](https://www.tinkercad.com/) da Autodesk. Aqui você encontra meus experimentos, aprendizados e projetos iniciais com lógica de programação, circuitos e componentes eletrônicos.
 
 ## 🤖 O que é o Tinkercad?
 
