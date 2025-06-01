@@ -32,11 +32,11 @@ Tinkercad é uma plataforma online gratuita da Autodesk que permite simular circ
 
 ## 🚀 Como visualizar os projetos
 
-1. [Hello World](https://www.tinkercad.com/things/3gCw02wxo63-hello-world)           
-2. [Luzes Dançantes 1](https://www.tinkercad.com/things/13LxjkjB5IW-luzes-dancantes-simples)
-3. [Luzes Dançantes 2](https://www.tinkercad.com/things/6QxtNJqBkYb-luzes-dancantes-2)
-4. [Semáforo](https://www.tinkercad.com/things/7aNA9HuOw6F-semaforo-simples)
-5. [Sensor de Temperatura](https://www.tinkercad.com/things/7dFBAFlmXBp-sensor-de-temperatura)
+1. [Hello World](https://www.tinkercad.com/things/haNzVWLpt37-hello-world?sharecode=zp5EYEYsklcz-F7Bc7a4UV52wALpsIymXioA6PUQGDs)           
+3. [Luzes Dançantes 1](https://www.tinkercad.com/things/13LxjkjB5IW-luzes-dancantes-simples?sharecode=4J9WC_YEmQGmLpKRgfq4Ccjj3G8QahUzteHwl-XPX5M)
+4. [Luzes Dançantes 2](https://www.tinkercad.com/things/hyehfTkPmtb-luzes-dancantes-2?sharecode=Q7bf3MFTD9wmlTxPjSlQnZ225BXe05vsepWNskBy9vM)
+5. [Semáforo](https://www.tinkercad.com/things/7aNA9HuOw6F-semaforo-simples?sharecode=vXPiwg-GKak_owp8bqkDl6s_4FKe-OP5U_rLMjW_XPI)
+6. [Sensor de Temperatura](https://www.tinkercad.com/things/7dFBAFlmXBp-sensor-de-temperatura?sharecode=z9kFhq044G3iHrGLC8rzx9vVK5ngTn-CYIPMD8SuVKk)
 
 Feito com 💡 e muita curiosidade por **Rômulo Pereira Famiglietti**
 
